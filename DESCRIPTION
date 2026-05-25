@@ -1,0 +1,14 @@
+Package: ClamTools
+Title: Microbiome Data Analysis Stuff
+Version: 0.1.0
+Author: Calum Walsh <calum.walsh@unimelb.edu.au>
+Maintainer: Calum Walsh <calum.walsh@unimelb.edu.au>
+Description: Miscellaneous functions useful for analysing microbiome abundance data
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+    tidyverse,
+    MASS
+Depends: 
+    R (>= 3.5)
